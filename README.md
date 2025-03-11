@@ -2,6 +2,7 @@
 
 Este projeto implementa um pipeline de dados para migrar informações de contratos CCB (Cédula de Crédito Bancária) do MongoDB para o PostgreSQL, garantindo a integridade, consistência e confiabilidade dos dados.
 
+```
 ## Estrutura do Projeto
 
 ccb-migration/
@@ -12,7 +13,7 @@ ccb-migration/
 ├── config.py          # Configurações de conexão e variáveis de ambiente
 ├── requirements.txt   # Lista de dependências do projeto
 └── README.md          # Documentação do projeto
-
+```
 
 ## Configuração
 
@@ -20,7 +21,7 @@ ccb-migration/
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 Configure as credenciais:
 
