@@ -35,7 +35,7 @@ python data_migration.py
 
 ## Estrutura de Dados no PostgreSQL
 
-Tabelas Principais
+## Tabelas Principais
 
 clientes: Informações básicas dos clientes.
 identidades: Dados de identificação (CPF, RG).
