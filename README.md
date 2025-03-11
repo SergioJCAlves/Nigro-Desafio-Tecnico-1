@@ -37,6 +37,7 @@ python data_migration.py
 
 ## Tabelas Principais
 
+```
 clientes: Informações básicas dos clientes.
 identidades: Dados de identificação (CPF, RG).
 enderecos: Endereços residenciais e comerciais.
@@ -45,6 +46,7 @@ dados_bancarios: Dados bancários para transações.
 operacoes: Detalhes das operações financeiras.
 parcelas: Informações sobre as parcelas das operações.
 detalhamento_cet: Detalhamento do Custo Efetivo Total (CET).
+```
 
 ## Relacionamentos
 
